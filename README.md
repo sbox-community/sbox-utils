@@ -24,3 +24,5 @@ for ( int y = 0; y < decoder.Height; y++ )
 var texture = Texture.Create( decoder.Width, decoder.Height ).WithData( data ).Finish();
 ```
 
+ # Credits
+ https://github.com/wertrain/tga-decoder-cs
