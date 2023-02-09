@@ -1,4 +1,5 @@
-﻿//https://github.com/wertrain/tga-decoder-cs
+﻿//https://github.com/sbox-community/sbox-utils
+//https://github.com/wertrain/tga-decoder-cs
 
 using System;
 using Sandbox;
