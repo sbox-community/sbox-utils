@@ -1,6 +1,6 @@
 # Zip Storer
 
-Storing, editing and reading Zip files, Support Zip64. This version is fixed and adapted to s&box. For the usage details, check credits.
+Storing, modifying, extracting and reading Zip files, Support Zip64. This version is fixed and adapted to s&box. For the usage details, check credits.
 
 ```csharp
 // Extracting file from Zip
